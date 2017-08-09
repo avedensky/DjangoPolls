@@ -1,2 +1,2 @@
 # DjangoPolls
-Polls
+Polls Sample
